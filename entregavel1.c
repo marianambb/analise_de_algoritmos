@@ -2,6 +2,8 @@
 #include <math.h>
 #include <stdlib.h>
 
+// O programa serve para reforçar funcionalidades básicas na Linguagem C
+
 //Prototipagem das funções
 void menu();
 void criar_conta();
